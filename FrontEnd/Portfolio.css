@@ -1,0 +1,21 @@
+
+.icono{height: 50px; width: 50px;}
+
+#login{color:blue; background-color: rgb(89, 194, 255);margin-top:10px; }
+.upperSlice{background-color: #75E6DA;}
+
+
+.intro{padding: 0; margin: 0%;}
+.intNombre{font-size: medium; color:rgb(19, 78, 76)}
+.intTitulo{font-size: smaller; color: rgb(68, 99, 124);}
+.intBox{background-color: #75E6DA;}
+
+.bar{background-color:#75E6DA; }
+
+.hr{border-top: 3px;}
+
+.bloqueProgreso{margin-top: 1cm; margin-bottom: 1cm;}
+
+.proyectThumbnail{height: 281px; width: 500px;}
+
+.destacadoProyectos{font-size: 12pt; background-color: #75E6DA;}
